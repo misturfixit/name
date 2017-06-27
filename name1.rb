@@ -1,6 +1,6 @@
-def get_firstname()
+def get_firstname()                        #define method/function 
 
-	print "What's your first name ?: "
+	print "What's your first name ?: "         
 	f_name = gets.chomp 
 end
 
@@ -43,7 +43,8 @@ def print_name
      .
      ...BWAHAHAHAHAHAHAHAHA!!!!
 
-    gotya...;)"
+    gotya...   % ^
+                O   "
 
 end
 
